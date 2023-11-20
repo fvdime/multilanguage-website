@@ -1,0 +1,19 @@
+{
+  "Index": {
+    "title": "Hello world!",
+    "AuthPage": {
+      "RegisterHeader": "Sign up for a new account",
+      "LoginHeader": "Sign in to your account",
+      "Username": "Username",
+      "Name": "Name",
+      "Email": "Email",
+      "Password": "Password",
+      "RegisterButtonLabel": "Sign Up",
+      "LoginButtonLabel": "Sign In",
+      "LoginFooterLabel": "Don't have an account?",
+      "RegisterFooterLabel": "Already have an account?",
+      "LoginFooterLink": "Sign up",
+      "RegisterFooterLink": "Sign In"
+    }
+  }
+}

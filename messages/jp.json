@@ -1,0 +1,19 @@
+{
+  "Index": {
+    "title": "Hello world!",
+    "AuthPage": {
+      "RegisterHeader": "サインアップ",
+      "LoginHeader": "サインイン",
+      "Username": "ユーザー名",
+      "Name": "お名前",
+      "Email": "メール",
+      "Password": "パスワード",
+      "RegisterButtonLabel": "登録する",
+      "LoginButtonLabel": "ログイン",
+      "RegisterFooterLabel": "アカウントを持ちですか？",
+      "LoginFooterLabel": "登録されていない？",
+      "LoginFooterLink": " アカウントを作成する",
+      "RegisterFooterLink": "アカウントにログイン"
+    }
+  }
+}

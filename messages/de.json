@@ -1,0 +1,18 @@
+{
+  "Index": {
+    "AuthPage": {
+      "RegisterHeader": "Registrieren Sie sich für ein neues Konto",
+      "LoginHeader": "Melden Sie sich bei Ihrem Konto an",
+      "Username": "Benutzername",
+      "Name": "Name",
+      "Email": "E-Mail-Adresse",
+      "Password": "Passwort",
+      "RegisterButtonLabel": "Registrieren",
+      "LoginButtonLabel": "Anmeldung",
+      "RegisterFooterLabel": "Sie haben bereits ein Konto?",
+      "LoginFooterLabel": "Du hast noch kein Benutzerkonto?",
+      "LoginFooterLink": "Benutzerkonto erstellen",
+      "RegisterFooterLink": "Anmeldung"
+    }
+  }
+}

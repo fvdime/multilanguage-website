@@ -1,0 +1,19 @@
+{
+  "Index": {
+    "title": "Hola Mundo!",
+    "AuthPage": {
+      "RegisterHeader": "Crea una cuenta nueva",
+      "LoginHeader": "Ingrese a su cuenta",
+      "Username": "Usuario",
+      "Name": "Nombre",
+      "Email": "Dirección de correo electrónico",
+      "Password": "Contraseña",
+      "RegisterButtonLabel": "Registrarse",
+      "LoginButtonLabel": "Acceder",
+      "RegisterFooterLabel": "¿Ya tienes una cuenta?",
+      "LoginFooterLabel": "¿No tienes una cuenta?",
+      "LoginFooterLink": "Crea una cuenta",
+      "RegisterFooterLink": "Acceder"
+    }
+  }
+}
