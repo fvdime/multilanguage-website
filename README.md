@@ -1,16 +1,16 @@
 ## About Multi Language Support
 
 Hi, thank you for your interest!
-I translated all the content here. I might and may make mistakes. If you catch any mistake, please let me know! I am not very confident about my German, Spanish, and Japanese.
+I translated all the content here. I might have made some mistakes. If you catch any mistake, please let me know! I am not very confident about my German, Spanish, and Japanese.
 
 Hola, gracias por tu interés!
-Traduje todo el contenido aquí. Podría y puedo cometer errores. Si detecta algún error, ¡hágamelo saber! No tengo mucha confianza en mi alemán, español y japonés.
+Traduje todo el contenido aquí. Podría y contener errores. Si detecta algún error, ¡Hágamelo saber! No tengo mucha confianza en mi alemán, español y japonés.
 
 Hallo, vielen Dank für Ihr Interesse!
-Ich habe den gesamten Inhalt hier übersetzt. Ich könnte und darf Fehler machen. Wenn Ihnen ein Fehler auffällt, lassen Sie es mich bitte wissen! Ich bin nicht sehr sicher in meinen Deutsch-, Spanisch- und Japanischkenntnissen.
+Ich habe den gesamten Inhalt hier übersetzt. Ich könnte einige Fehler gemacht haben. Wenn Sie einen Fehler finden, lassen Sie es mich bitte wissen! Ich bin nicht sehr zuversichtlich, was mein Deutsch, Spanisch und Japanisch angeht.
 
-こんにちは、ご興味をお持ちいただきありがとうございます。
-ここではすべてのコンテンツを翻訳しました。 私は間違いを犯すかもしれませんし、間違いを犯すかもしれません。 間違いを見つけた場合は、お知らせください。 私はドイツ語、スペイン語、日本語にあまり自信がありません。
+こんにちは、関心いただきありがとうございました。
+ここに内容を訳しました 私の日本語が変だったら許してください。もし日本語の間違まちがいを見みつけたら、直なおしてください。私は自分の日本語、スペイン語、ドイツ語に自身がありません。もうちょっと勉強必要かも！
 ありがとうござます！！！！！！！！！！
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
